@@ -1,0 +1,8 @@
+<story path="com/springjbehave/sample/spring_jbehave/stories/my.story" title="">
+<scenario keyword="Scenario:" title="A scenario with some pending steps">
+<step outcome="successful">Given I am a pending step</step>
+<step outcome="successful">And I am still pending step</step>
+<step outcome="successful">When a good soul will implement me</step>
+<step outcome="successful">Then I shall be happy</step>
+</scenario>
+</story>
